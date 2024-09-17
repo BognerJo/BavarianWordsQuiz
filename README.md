@@ -24,4 +24,4 @@ Not documented yet. Available soon! 🛠️
 
 ---
 <p align="center">Developed and maintained with ❤️</p>
-<p align="center">by @BognerJo</p>
+<p align="center">by <a href="https://github.com/BognerJo">Johann Bogner</a></p>
